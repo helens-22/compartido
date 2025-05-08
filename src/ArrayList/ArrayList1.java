@@ -10,10 +10,7 @@ public class ArrayList1 {
 		ArrayList<Integer> numeros = new ArrayList<>();
 		
 		// Hemos decidido que tenga 5 posiciones pero le mon
-		for (int i = 0; i <= 5; i++) {
-			numeros.add(i);
-		}
-		
+				
 		ArrayList<Integer> numerosPares = new ArrayList<>();
 		// Size nos sirve para saber el tamaño (Para recorrerlo)
 		for (int i = 0; i < numeros.size(); i++) {
